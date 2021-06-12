@@ -1,2 +1,4 @@
 *.toml
-bin/
+bin/**
+
+
